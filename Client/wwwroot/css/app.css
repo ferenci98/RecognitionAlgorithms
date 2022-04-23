@@ -68,3 +68,53 @@ a, .btn-link {
         content: "An error has occurred."
     }
 
+
+.input-container {
+    position: relative;
+    width: 100%;
+    max-width: 280px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+    .input-container .header-label {
+        position: absolute;
+        top: -25px;
+        left: 12px;
+        color: #4b5563;
+        font-weight: 400;
+        transform-origin: 0 0;
+        transform: translate3d(0, 0, 0);
+        transition: all 0.2s ease;
+        pointer-events: none;
+    }
+
+.input-field {
+    width: 100%;
+    font-family: inherit;
+    padding: 0px 12px 0 11px;
+    height: 90px;
+    border-radius: 0.25rem;
+    border-width: 1px;
+    border-color: #c9cfd5;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.border-animation {
+    transition-property: border-color;
+    transition-duration: 250ms;
+    transition-timing-function: ease-in-out;
+}
+
+.background-animation {
+    transition-property: background;
+    transition-duration: 250ms;
+    transition-timing-function: ease-in-out;
+}
+
+.text-animation {
+    transition-property: color;
+    transition-duration: 250ms;
+    transition-timing-function: ease-in-out;
+}

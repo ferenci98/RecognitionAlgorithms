@@ -1,20 +1,22 @@
 ﻿@inherits LayoutComponentBase
 
 <div class="w-full h-full">
-    <aside class="h-full w-32 fixed inset-y-0 z-30 bg-slate-500 pt-32 p-2 space-y-6">
-        <div class="bg-gray-800 bg-opacity-30 group w-full h-16 shadow-sm rounded-md hover:bg-opacity-50 cursor-pointer ">
+    <aside class="h-full w-32 fixed inset-y-0 z-30 bg-slate-500 pt-8 p-4 space-y-6">
+        <div class="bg-gray-800 bg-opacity-30 group w-full h-16 shadow-sm rounded-md hover:bg-opacity-50 cursor-pointer background-animation">
             <a href="/recognition" class="w-full h-full flex items-center justify-center">
-                <p class="text-white text-md font-medium">Algoritmusok</p>
+                <p class="text-white text-xs font-normal">ELEMZÉS</p>
             </a>
         </div>
-        <div class="bg-gray-800 bg-opacity-30 group w-full h-16 shadow-sm rounded-md hover:bg-opacity-50 cursor-pointer ">
-            <a href="/recognition" class="w-full h-full flex items-center justify-center">
-                <p class="text-white text-md font-medium">Elemzés</p>
+        <div class="bg-gray-800 bg-opacity-30 group w-full h-16 shadow-sm rounded-md hover:bg-opacity-50 cursor-pointer background-animation">
+            <a href="/datas" class="w-full h-full flex items-center justify-center">
+                <p class="text-white text-xs font-normal">ADATOK</p>
             </a>
         </div>
+
+        <p class="absolute mb-4 bottom-0 text-white text-xs font-normal">by erikferenci</p>
     </aside>
 
-    <main class="w-full h-full bg-slate-200 pl-36 p-4">
+    <main class="w-full h-full bg-slate-200 pl-44 p-12">
         @Body
     </main>
 </div>
