@@ -1628,3 +1628,4 @@
 /Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/obj/Debug/net6.0/refint/Client.dll
 /Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/obj/Debug/net6.0/Client.pdb
 /Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/obj/Debug/net6.0/ref/Client.dll
+/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/obj/Debug/net6.0/scopedcss/Pages/RecognitionView.razor.rz.scp.css

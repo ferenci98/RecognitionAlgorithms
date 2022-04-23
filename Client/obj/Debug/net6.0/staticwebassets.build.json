@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iBO+mobcSDscQet/ojmwGT8Zf2DmJIdHqYk35sFV740=",
+  "Hash": "WGn7pduHOHwZnyERiPDY86W9m7ZLMO6/0gQbVzgm67E=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -6832,6 +6832,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/obj/Debug/net6.0/scopedcss/projectbundle/Client.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/wwwroot/css/.DS_Store",
+      "SourceId": "Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "css/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/.DS_Store"
     },
     {
       "Identity": "/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/wwwroot/css/app.css",
