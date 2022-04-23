@@ -1,2 +1,0 @@
-# RecognitionAlgorithms
-Handwriting RecognitionAlgorithms

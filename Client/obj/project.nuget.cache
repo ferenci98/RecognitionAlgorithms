@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lm4ozYPF/tYsfpIMynQe8jYi4J2zE6CK7zl1P30I1wKa4+x7Ml/aZSxoUTaN6JVFZDNnksV0m9Z2c4+yMXvTSg==",
+  "dgSpecHash": "kfQD9dDF5oF+dh0n8No6eL+YjcKC6ijTKEoR4IZoigjgj2+pRi5bBbsX+w3XpgwSl7Keon8BSJ+YcaVNi4/Djw==",
   "success": true,
-  "projectFilePath": "/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/Client/Client.csproj",
+  "projectFilePath": "/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/Client.csproj",
   "expectedPackageFiles": [
     "/Users/ferencierik/.nuget/packages/microsoft.aspnetcore.authorization/6.0.3/microsoft.aspnetcore.authorization.6.0.3.nupkg.sha512",
     "/Users/ferencierik/.nuget/packages/microsoft.aspnetcore.components/6.0.3/microsoft.aspnetcore.components.6.0.3.nupkg.sha512",

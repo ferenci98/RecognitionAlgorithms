@@ -1552,11 +1552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/Client/Client.csproj",
+      "projectUniqueName": "/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/Client.csproj",
       "projectName": "Client",
-      "projectPath": "/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/Client/Client.csproj",
+      "projectPath": "/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/Client.csproj",
       "packagesPath": "/Users/ferencierik/.nuget/packages/",
-      "outputPath": "/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/Client/obj/",
+      "outputPath": "/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
