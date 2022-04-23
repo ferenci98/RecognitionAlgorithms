@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build-css": "tailwindcss -i ./Client/styles.css -o ./Client/styles.min.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
