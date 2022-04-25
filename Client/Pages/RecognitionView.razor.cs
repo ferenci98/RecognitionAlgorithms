@@ -11,6 +11,8 @@ namespace Client.Pages
         private void LoadFiles(InputFileChangeEventArgs e)
         {
             isLoading = true;
+            StateHasChanged();
+
             loadedFiles.Clear();
 
             foreach (var file in e.GetMultipleFiles(5))
@@ -26,6 +28,7 @@ namespace Client.Pages
             }
 
             isLoading = false;
+            StateHasChanged();
         }
 
     }

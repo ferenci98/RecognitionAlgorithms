@@ -1,23 +1,36 @@
 ﻿<Properties StartupConfiguration="{E050656D-C674-4A2C-901E-D51274CE3B7E}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Client PreferredExecutionTarget="/Applications/Safari.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Client/wwwroot/index.html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Pages/RecognitionView.razor">
     <Files>
-      <File FileName="Client/wwwroot/css/app.min.css" Line="1" Column="1" />
-      <File FileName="Client/wwwroot/css/app.css" Line="1" Column="1" />
-      <File FileName="Client/wwwroot/index.html" Line="25" Column="1" />
+      <File FileName="Client/wwwroot/css/app.min.css" Line="879" Column="1" />
+      <File FileName="Client/wwwroot/css/app.css" Line="99" Column="27" />
+      <File FileName="Client/wwwroot/index.html" Line="17" Column="44" />
+      <File FileName="Client/Pages/StartView.razor" Line="4" Column="74" />
+      <File FileName="Client/Shared/MainLayout.razor" Line="15" Column="94" />
+      <File FileName="Client/Pages/DatasView.razor" Line="1" Column="14" />
+      <File FileName="Client/Shared/MainLayout.razor.css" Line="16" Column="31" />
+      <File FileName="Client/Pages/RecognitionView.razor.cs" Line="12" Column="10" />
+      <File FileName="Client/Pages/RecognitionView.razor.css" Line="1" Column="1" />
+      <File FileName="Client/Pages/DatasView.razor.css" Line="1" Column="1" />
+      <File FileName="Client/_Imports.razor" Line="1" Column="1" />
+      <File FileName="Client/App.razor" Line="1" Column="1" />
+      <File FileName="Client/Program.cs" Line="1" Column="1" />
+      <File FileName="Client/Pages/RecognitionView.razor" Line="27" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RecognitionAlgorithms" expanded="True">
             <Node name="Client" expanded="True">
-              <Node name="Pages" expanded="True" />
-              <Node name="wwwroot" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="RecognitionView.razor" expanded="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="app.css" expanded="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
@@ -27,5 +40,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ferencierik/Documents/Projektmunka/RecognitionAlgorithms/RecognitionAlgorithms/Client/Pages/RecognitionView.razor.cs" relfile="Client/Pages/RecognitionView.razor.cs" line="16" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
