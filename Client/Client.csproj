@@ -16,5 +16,13 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Pages\" />
+    <Folder Include="wwwroot\fonts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\fonts\" />
+    <Content Remove="wwwroot\fonts\MaterialIcons-Regular.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\fonts\MaterialIcons-Regular.ttf" />
   </ItemGroup>
 </Project>
