@@ -1,33 +1,20 @@
 ﻿using Microsoft.AspNetCore.Components.Forms;
-using Microsoft.AspNetCore.Components.Web;
 
 namespace Client.Pages
 {
-	public partial class RecognitionView
-	{
-        private List<IBrowserFile> loadedFiles = new();
-        private bool isLoading;
+    public partial class RecognitionView
+    {
+        private IBrowserFile _loadedFile;
+        private bool _isLoading;
 
         private void LoadFiles(InputFileChangeEventArgs e)
         {
-            isLoading = true;
+            _isLoading = true;
             StateHasChanged();
 
-            loadedFiles.Clear();
+            _loadedFile = e.File;
 
-            foreach (var file in e.GetMultipleFiles(5))
-            {
-                try
-                {
-                    loadedFiles.Add(file);
-                }
-                catch (Exception ex)
-                {
-               
-                }
-            }
-
-            isLoading = false;
+            _isLoading = false;
             StateHasChanged();
         }
 

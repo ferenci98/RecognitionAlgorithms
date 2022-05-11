@@ -1,24 +1,25 @@
 ﻿<Properties StartupConfiguration="{E050656D-C674-4A2C-901E-D51274CE3B7E}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Shared/MainLayout.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Pages/RecognitionView.razor">
     <Files>
-      <File FileName="Client/Pages/RecognitionView.razor" Line="26" Column="19" />
-      <File FileName="Client/wwwroot/css/app.css" Line="25" Column="2" />
-      <File FileName="Client/Pages/StartView.razor" Line="12" Column="117" />
-      <File FileName="Client/Shared/MainLayout.razor" Line="21" Column="1" />
+      <File FileName="Client/Pages/RecognitionView.razor" Line="67" Column="66" />
+      <File FileName="Client/wwwroot/css/app.css" Line="120" Column="35" />
+      <File FileName="Client/Pages/RecognitionView.razor.cs" Line="1" Column="45" />
+      <File FileName="Client/Shared/MainLayout.razor" Line="14" Column="69" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RecognitionAlgorithms" expanded="True">
             <Node name="Client" expanded="True">
-              <Node name="Pages" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="RecognitionView.razor" expanded="True" />
+              </Node>
               <Node name="Shared" expanded="True" />
-              <Node name="wwwroot" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="app.css" expanded="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
@@ -29,5 +30,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
